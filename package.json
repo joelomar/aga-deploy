@@ -1,0 +1,17 @@
+{
+  "name": "aga",
+  "version": "1.0.0",
+  "description": "energy consults",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "joel vazquez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
